@@ -8,6 +8,9 @@ permalink: /mofa-versicherung-vergleich/
 keyword: "mofa versicherung vergleich"
 affiliate_program: "awin_verivox_versicherung"
 word_count: 1350
+image: "https://images.pexels.com/photos/10341357/pexels-photo-10341357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Close-up image of an insurance policy with a magnifying glass, money, and toy car."
+image_credit: "Vlad Deep via Pexels"
 ---
 
 *Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links eine Versicherung abschließt, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten.*
