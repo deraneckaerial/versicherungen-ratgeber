@@ -13,12 +13,8 @@ image_alt: "Close-up image of an insurance policy with a magnifying glass, money
 image_credit: "Vlad Deep via Pexels"
 ---
 
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links eine Versicherung abschließt, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten.*
-
 ---
 
-
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links ein Produkt kaufst oder buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
 
 ---
 
