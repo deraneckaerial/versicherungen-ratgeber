@@ -1,0 +1,9 @@
+title: "Versicherungen Ratgeber"
+description: "KFZ, Haftpflicht & Krankenversicherung im Vergleich"
+url: "https://deraneckaerial.github.io"
+baseurl: "/versicherungen-ratgeber"
+lang: de
+permalink: /:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
