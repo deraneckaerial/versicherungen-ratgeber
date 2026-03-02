@@ -8,17 +8,13 @@ permalink: /berufsunfahigkeitsversicherung-ja-oder-nein/
 keyword: "berufsunfähigkeitsversicherung ja oder nein"
 affiliate_program: "awin_verivox_versicherung"
 word_count: 1750
-image: "https://images.pexels.com/photos/10341357/pexels-photo-10341357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-image_alt: "Close-up image of an insurance policy with a magnifying glass, money, and toy car."
-image_credit: "Vlad Deep via Pexels"
+image: "https://images.pexels.com/photos/5849553/pexels-photo-5849553.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Illustration of hands protecting a home and family with an insurance shield symbol."
+image_credit: "Monstera Production via Pexels"
 ---
 
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links eine Versicherung abschließt, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten.*
-
 ---
 
-
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links ein Produkt kaufst oder buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
 
 ---
 
