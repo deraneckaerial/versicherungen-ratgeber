@@ -8,17 +8,13 @@ permalink: /krankenzusatzversicherung-vergleich/
 keyword: "krankenzusatzversicherung vergleich"
 affiliate_program: "awin_verivox_versicherung"
 word_count: 1620
-image: "https://images.pexels.com/photos/10341357/pexels-photo-10341357.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
-image_alt: "Close-up image of an insurance policy with a magnifying glass, money, and toy car."
-image_credit: "Vlad Deep via Pexels"
+image: "https://images.pexels.com/photos/7736037/pexels-photo-7736037.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
+image_alt: "Real estate agent in a face mask hands keys to a client, illustrating safe business practices."
+image_credit: "Mikhail Nilov via Pexels"
 ---
 
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links eine Versicherung abschließt, erhalten wir eine Provision – für dich entstehen keine zusätzlichen Kosten.*
-
 ---
 
-
-*Hinweis: Dieser Artikel enthält Affiliate-Links. Wenn du über diese Links ein Produkt kaufst oder buchst, erhalten wir eine kleine Provision – für dich entstehen keine zusätzlichen Kosten.*
 
 ---
 
